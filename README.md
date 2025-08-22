@@ -23,6 +23,6 @@ By engaging users in a dialogue that requires analysis and reflection, Sensei Br
 
 ---
 
-**This is currently an open source, non-monetized project.**
+**Currently in beta- a non-monetized project.**
 
 ---
